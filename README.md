@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working at [zotero-arxiv-daily](https://github.com/phhandong/zotero-arxiv-daily) and [heu-icicles](https://github.com/phhandong/heu-icicles) as an SRE
 - 💬 Ask me about **C, C++, Git and Python**
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- ⚡ I love digital devices(Nas, Computer hardware), I go swimming at my spare time
 
 -------
 
